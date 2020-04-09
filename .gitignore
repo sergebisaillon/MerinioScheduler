@@ -31,9 +31,7 @@
 *.out
 *.app
 
-# CMakeDefinitionsList.txt
 CMakeDefinitionsLists.txt
-
 # source files whose changes must remain local
 src/main.cpp
 src/MyMain.cpp
